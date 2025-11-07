@@ -1,0 +1,34 @@
+# --- FastAPI & Server ---
+fastapi==0.115.0
+uvicorn==0.31.0
+pydantic==2.9.0
+
+# --- CORS Middleware ---
+starlette==0.38.0
+
+# --- Data Science / ML ---
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2
+tqdm==4.66.5
+matplotlib==3.9.2
+
+# --- Deep Learning ---
+torch==2.4.1
+torchvision==0.19.1
+
+# --- Image Processing ---
+Pillow==10.4.0
+
+# --- Utilities ---
+argparse
+platformdirs
+pathlib
+hashlib
+os-sys
+jsonschema
+
+# --- Optional (if you have sam_optimizer.py or custom optimizers) ---
+# Uncomment below if SAM optimizer is external and needs install
+# sam-optimizer==0.1.0
