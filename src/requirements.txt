@@ -16,7 +16,7 @@ matplotlib==3.9.2
 
 # --- Deep Learning ---
 torch==2.5.1
-torchvision==0.19.1
+torchvision==0.20.1
 
 # --- Image Processing ---
 Pillow==10.4.0
